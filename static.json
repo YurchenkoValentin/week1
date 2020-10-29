@@ -1,7 +1,8 @@
 {
   "headers": {
     "/*": {
-      "X-Author": "yurchenkovalentin"
+      "X-Author": "yurchenkovalentin",
+      "Access-Control-Allow-Origin": "*"
     }
   }  
 }
